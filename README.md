@@ -1,2 +1,2 @@
 # AI-WeddingPlanner
-AI Poduct
+AI Product
